@@ -1,0 +1,12 @@
+
+wwwTbl
+    dep
+    hw_info
+    url
+    note
+
+depTbl
+    dep
+
+hwTbl
+    hw_info
